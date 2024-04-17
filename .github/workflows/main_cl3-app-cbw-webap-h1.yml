@@ -54,4 +54,4 @@ jobs:
           app-name: 'CL3-APP-CBW-WEBAP-H1'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10ADA52A45CC423CB5F03E318A1A2C76 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_941475AEF3C948E6890569631D390A7E }}
